@@ -6,3 +6,4 @@
 4. [React Query](/React-Query)
 5. [C++](/c++)
 6. [Next14 with trpc](/next14-trpc-setup.md)
+7. [Javascript](/javascript.md)
